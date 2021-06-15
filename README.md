@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Samir👋
 
-<!--
-**Experiya/Experiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Experiya/Experiya** I'm a Developer and Student!!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m pursuing my B. Tech degree in Computer Science Engineering  from IIITG
+
+- 🌱 I’m currently learning full stack development & everyting possible till my possible placement
+
+- 👯 I’m looking to collaborate on software industries
+
+- 💬 Ask me about web technologies
+
+- 📫 Drop me an email to : samir.boro@iiitg.ac.in
+
+- ⚡ Fun fact: I'm a good athletics person
+
+
