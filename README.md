@@ -5,7 +5,8 @@
 
 - 🔭 I’m pursuing my B. Tech degree in Computer Science Engineering  from IIITG
 
-- 🌱 I’m currently learning full stack development & everyting possible till my possible placement
+- 🌱 I’m currently learning full stack development & everyting possible till my
+ placement
 
 - 👯 I’m looking to collaborate on software industries
 
