@@ -14,7 +14,7 @@
 
 - 📫 Drop me an email to : samir.boro@iiitg.ac.in
 
-- ⚡ Fun fact: I'm a good athletics
+- ⚡ Fun fact: I'm a good athlete
 
 
 
